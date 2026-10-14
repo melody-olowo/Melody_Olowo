@@ -1,16 +1,16 @@
 {
-    "id": "BBE44574",
-    "path": "/Applications/Melody_Olowo/BLOG.qmd",
-    "project_path": "BLOG.qmd",
+    "id": "665FFFB7",
+    "path": "/Applications/Melody_Olowo/posts.qmd",
+    "project_path": "posts.qmd",
     "type": "quarto_markdown",
-    "hash": "4239806731",
+    "hash": "2953575096",
     "contents": "",
     "dirty": false,
-    "created": 1791142896261.0,
+    "created": 1792016425109.0,
     "source_on_save": false,
-    "relative_order": 4,
+    "relative_order": 5,
     "properties": {
-        "rmdVisualMode": "false",
+        "rmdVisualMode": "true",
         "rmdVisualWrapConfigured": "true",
         "tempName": "Untitled1",
         "source_window_id": "",
@@ -19,14 +19,14 @@
         "scrollLine": "0",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "rmdVisualModeLocation": "2:0"
+        "rmdVisualModeLocation": "94:0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1792014510,
+    "lastKnownWriteTime": 1792017372,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1792014510420,
+    "last_content_update": 1792017372531,
     "read_only": false,
     "read_only_alternatives": []
 }

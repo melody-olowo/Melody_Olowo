@@ -1,0 +1,6 @@
+---
+title: "My Blog"
+listing:
+  contents: "econ_3201_a1.qmd"
+  sort: "october,14,2026"
+---

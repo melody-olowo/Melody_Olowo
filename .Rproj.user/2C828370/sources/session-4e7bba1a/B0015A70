@@ -3,7 +3,7 @@
     "path": "/Applications/Melody_Olowo/_quarto.yml",
     "project_path": "_quarto.yml",
     "type": "yaml",
-    "hash": "0",
+    "hash": "3707557460",
     "contents": "",
     "dirty": true,
     "created": 1791138543742.0,
@@ -12,7 +12,7 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "12,20",
+        "cursorPosition": "19,4",
         "scrollLine": "0"
     },
     "folds": "",
@@ -20,7 +20,7 @@
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1792015695195,
+    "last_content_update": 1792016541429,
     "read_only": false,
     "read_only_alternatives": []
 }
