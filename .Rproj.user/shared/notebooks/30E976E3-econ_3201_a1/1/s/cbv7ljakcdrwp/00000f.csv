@@ -1,0 +1,5 @@
+"0","#Define the standard Normal Distribution Function"
+"0","f <- function(x){"
+"0","  exp(-(x^2)/2) / sqrt(2*pi*1)"
+"0","}"
+"0",""

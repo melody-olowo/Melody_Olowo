@@ -6,5 +6,5 @@ title: "Blog"
 title: "Assignments"
 listing:
   contents: posts
-  sort: "date"
+  sort: title desc"
 ---

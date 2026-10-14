@@ -1,0 +1,21 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Melody Olowo"
+  navbar:
+    left:
+      - text: Home
+        href: index.qmd
+      - about.qmd  
+      - text: Blog
+        href: blog.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    
+  editor: visual 

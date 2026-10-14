@@ -1,0 +1,7 @@
+"0","?dt"
+"0",""
+"0","#(iv) Student T distribution df=25"
+"0","curve(dt(x, df =25),"
+"0","            from = 5, to = -5,"
+"0","            xlab = c(-5,5), ylab = ""Density"","
+"0","            col = ""4"",add = TRUE)"

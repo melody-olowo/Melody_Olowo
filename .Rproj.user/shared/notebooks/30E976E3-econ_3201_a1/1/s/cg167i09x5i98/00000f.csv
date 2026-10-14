@@ -1,0 +1,8 @@
+"0","# Expected value of a f"
+"0","# Integrate from 0 to 3"
+"0","expected_value_normal<- integrate(function(x) x*  x^2/9, 0, 3)$value"
+"0","expected_value_normal"
+"1","[1]"
+"1"," 2.25"
+"1","
+"

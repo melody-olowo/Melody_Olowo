@@ -1,0 +1,19 @@
+library(readr)
+library(forecast)
+
+# Read data
+gdp <- read_csv("canadian_gdp.csv")
+
+# Create quarterly time series
+gdp_ts <- ts(gdp$GDP,
+             start = c(2011,1),
+             frequency = 4)
+
+# Fit model
+model <- auto.arima(gdp_ts)
+
+# Forecast next 8 quarters
+fc <- forecast(model, h = 8)
+
+plot(fc)
+fc

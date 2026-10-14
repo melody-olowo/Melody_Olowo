@@ -1,0 +1,34 @@
+#Assignment 1
+library(readr)
+BoC_Governors_Challange <- read_csv("/Applications/bank of canada challenge/BoC - Governors Challange.csv")
+View(BoC_Governors_Challange)
+library(readr)
+library(forecast)
+# Read data
+gdp <- read_csv("BoC- Governors Challenge.csv")
+# Read data
+gdp <- read_csv("gdp.csv.xlsx.csv")
+# Read data
+gdp <- read_csv("gdp.csv.xlsx.csv")
+# Read data
+gdp <- read_csv("gdp.csv.xlsx")
+# Read data
+gdp <- read_csv("gdp.csv.xlsx")
+# Read data
+gdp <- read_csv("gdp.csv.xlsx")
+# Create quarterly time series
+gdp_ts <- ts(gdp$GDP,
+start = c(2000,1),
+frequency = 4)
+# Create quarterly time series
+gdp_ts <- ts(gdp$gdp,
+start = c(2000,1),
+frequency = 4)
+fc
+# Create quarterly time series
+gdp_ts <- ts(gdp$gdp,
+start = c(2000,1),
+frequency = 4)
+dim("gdp")
+dim("gdp.csv.xlsx")
+dim("gdp.csv.xlsx")
