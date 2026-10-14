@@ -12,5 +12,26 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "Assignment_1.html",
+    "href": "Assignment_1.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Assignment 1"
+  },
+  {
+    "objectID": "MelodyOlowo.html",
+    "href": "MelodyOlowo.html",
+    "title": "Melody_Olowo",
+    "section": "",
+    "text": "---\n    title: \"Melody_Olowo\"\n    ---\n    \nWelcome to my page\n\nCredentials\nEconomics honors student at the university of winnipeg\nStudent Ambassador, Student Recruitment\nVolunteer work, Children school, Food Bank\nBank of Canada Challenge\nInterests in Economic Analysis, Data Analysis and public policy\nAbout Me\nMy name is Oyinloluwa Melody Olowo, and I am an international student from Lagos, Nigeria, pursuing an Honors in Economics. While my academic interests focus on economic analysis and policy formation, I am also deeply interested in marketing and consumer behavior. I have practical experience in customer service and developing marketing strategies. Outside of my studies and career, I enjoy outdoor runs, baking, and reading!"
+  },
+  {
+    "objectID": "Blog.html",
+    "href": "Blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "#Assignment 1"
   }
 ]
