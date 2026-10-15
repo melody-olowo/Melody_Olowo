@@ -1,9 +1,0 @@
-"0","#Define the standard Normal Distribution"
-"0","f <- (f (x))"
-"0","f <- function(x)"
-"0","  exp(-(x^2)/2) / sqrt(2*pi*1)"
-"0","print(f)"
-"1","function(x)
-"
-"1","  exp(-(x^2)/2) / sqrt(2*pi*1)
-"

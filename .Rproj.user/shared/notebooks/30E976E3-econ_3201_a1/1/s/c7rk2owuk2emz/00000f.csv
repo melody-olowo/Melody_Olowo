@@ -1,8 +1,0 @@
-"0","#Variance of f"
-"0","# Integrate from negative infinity to positive infinity"
-"0","variance<- integrate(function(x) x^2 * f(x), -Inf, Inf)$value"
-"0","variance"
-"1","[1]"
-"1"," 1"
-"1","
-"

@@ -282,7 +282,6 @@ term
 ::: callout-tip
 ```{r}
 #Define the standard Normal Distribution
-f <- (f (x))
 f <- function(x)
   exp(-(x^2)/2) / sqrt(2*pi*1)
 print(f)
@@ -404,7 +403,7 @@ Let $X$ follow a Student $t$ distribution with $M$ degrees of freedom. Then $$X=
 curve(dnorm(x), from = -5, to = 5,
 xlab = c(-5,5), ylab = "Density",
 main = "Densities of t Distribution",
-col = "1",add = TRUE)
+col = "1")
 
 # (ii) Student T distribution, df=5
 curve(dt(x, df =5),
@@ -440,3 +439,6 @@ legend("topright",
 ::: callout-tip
 As the degrees of freedom increase, the Student t distribution approaches the standard normal distribution. It also confirms the central limit theorm, that is as n becomes larger, the actual function becomes better appoximated by the normal distribution
 :::
+
+#quarto render econ_3201_a1.qmd --to pdf
+

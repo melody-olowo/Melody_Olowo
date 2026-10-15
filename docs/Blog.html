@@ -85,9 +85,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: [{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-title','listing-author','listing-subtitle','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: [],
+      searchColumns: ["listing-title","listing-author","listing-subtitle","listing-image","listing-description"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -205,7 +205,31 @@ window.Quarto = {
 
 <div class="quarto-listing quarto-listing-container-default" id="listing-listing">
 <div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-listing-file-modified-sort="1792025180234" data-listing-reading-time-sort="7" data-listing-word-count-sort="1397">
+<div class="thumbnail"><a href="./posts/econ_3201_a1.pdf" class="no-external">
 
+<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/econ_3201_a1.pdf" class="no-external">| ECON 3201 | Econometrics for Economics and Finance</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./posts/econ_3201_a1.pdf" class="no-external">| Assignment 1 | Due Thursday October 8, 2026 </a>
+</div>
+<div class="delink listing-description"><a href="./posts/econ_3201_a1.pdf" class="no-external">
+
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/econ_3201_a1.pdf" class="no-external">
+<div class="listing-author">
+Melody_Olowo
+</div>
+</a>
+</div>
+</div>
 </div>
 <div class="listing-no-matching d-none">No matching items</div>
 </div></main> <!-- /main -->
