@@ -1,10 +1,9 @@
 ---
-title: "Blog"
+title: "Assignments"
 ---
 
----
-title: "Assignments"
-listing:
-  contents: econ_3201_a11.pdf
-  sort: october 14, 2026 
----
+## ECON 3201 Assignment
+
+Date: October 14, 2026
+
+[View my ECON 3201 assignment (PDF)](econ_3201_a1.pdf)
