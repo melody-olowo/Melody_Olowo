@@ -1,26 +1,4 @@
-[
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Melody_Olowo",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "Assignment_1.html",
-    "href": "Assignment_1.html",
-    "title": "Blog",
-    "section": "",
-    "text": "Assignment 1"
-  },
-  {
+ {
     "objectID": "MelodyOlowo.html",
     "href": "MelodyOlowo.html",
     "title": "Melody Olowo",
@@ -32,21 +10,7 @@
     "href": "Blog.html",
     "title": "Assignments",
     "section": "",
-    "text": "| ECON 3201 | Econometrics for Economics and Finance\n\n\n| Assignment 1 | Due Thursday October 8, 2026 \n\n\n\n\n\n\n\n\nMelody_Olowo\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "MelodyOlowo.html#education",
-    "href": "MelodyOlowo.html#education",
-    "title": "Melody Olowo",
-    "section": "Education",
-    "text": "Education\nUNIVERSITY OF WINNIPEG | Manitoba, Canada\nB.A. | January 2021 - present\nChrisland College Idimu | Lagos, Nigeria\nHigh School Degree| September 2014 -September 2020"
-  },
-  {
-    "objectID": "MelodyOlowo.html#experience",
-    "href": "MelodyOlowo.html#experience",
-    "title": "Melody Olowo",
-    "section": "Experience",
-    "text": "Experience\nEconomics honors | student at the university of winnipeg | August 2021 - Present\nStudent Ambassador | Student Recruitment at University of Winnipeg | June 2025 - Present\nVolunteer work | Children school, Food Bank | 2021 - 2023\nBank of Canada Challenge | Presenter | september 2026 - present"
+    "text": "| ECON 3201 | Econometrics for Economics and Finance\n\n\n| Assignment 1 | Due Thursday October 15, 2026 \n\n\n\n\n\n\n\n\nMelody_Olowo\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "CV.html",
@@ -74,7 +38,7 @@
     "href": "posts.html",
     "title": "My Blog",
     "section": "",
-    "text": "[Click here to view my ECON 3201 assignment (PDF)](econ_3201_a1.pdf)\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Melody_Olowo/\n├── posts.qmd\n└── econ_3201_a1.pdf"
   },
   {
     "objectID": "MelodyOlowo.html#bio",

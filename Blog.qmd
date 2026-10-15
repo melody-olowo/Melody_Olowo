@@ -5,6 +5,6 @@ title: "Blog"
 ---
 title: "Assignments"
 listing:
-  contents: posts
-  sort: title desc"
+  contents: econ_3201_a11.pdf
+  sort: october 14, 2026 
 ---
