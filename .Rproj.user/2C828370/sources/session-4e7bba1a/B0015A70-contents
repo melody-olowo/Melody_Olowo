@@ -11,6 +11,10 @@ website:
       - about.qmd  
       - text: CV
         href: CV.qmd
+      - text: posts
+        href: posts.qmd
+     
+      
 
 format:
   html:
